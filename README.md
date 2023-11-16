@@ -4,6 +4,9 @@ Taylan Soylu'nun Sanat Galerisi Web Sitesi
 Bu proje, Taylan Soylu'nun kişisel sanat galerisini sergileyen, dinamik ve etkileşimli bir web sitesidir. Ziyaretçilere hem görsel hem de işitsel bir deneyim sunmayı amaçlayan bu site, kullanıcıların sanat eserlerini izlerken aynı zamanda radyo yayını dinlemelerine olanak tanır.
 Proje Hakkında
 
+DEMO : https://test.taylansoylu.com
+
+
 Taylan Soylu'nun sanat eserleri, web sitesinin arka planında sürekli dönen bir slayt gösterisi şeklinde sunulur. Bu eserler, ziyaretçilere görsel bir zenginlik sunarken, arka planda çalan radyo yayını ise eşsiz bir atmosfer yaratır. Site, teknoloji ve sanatın birleşimini yansıtan modern ve kullanıcı dostu bir tasarıma sahiptir.
 Ana Özellikler
 
