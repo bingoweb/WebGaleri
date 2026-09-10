@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0d10" />
+  <title>Taylan'ın Günlük Özeti</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0b0d10;--card:#14171b;--muted:#9aa4af;--line:#242a31;--text:#f5f7fa;--accent:#d7ff64;--soft:#1a1f25;--max:1080px}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% 0%,#19211b 0,transparent 30%),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
+    a{color:inherit}.wrap{width:min(var(--max),calc(100% - 32px));margin:auto}.top{display:flex;justify-content:space-between;align-items:center;padding:26px 0;border-bottom:1px solid var(--line)}
+    .brand{font-weight:800;letter-spacing:-.03em}.pill{font-size:12px;color:#0b0d10;background:var(--accent);padding:7px 10px;border-radius:999px;font-weight:800}.hero{padding:68px 0 42px}
+    .eyebrow{font-size:12px;color:var(--accent);font-weight:800;letter-spacing:.14em;text-transform:uppercase}.hero h1{font-size:clamp(42px,8vw,88px);line-height:.95;letter-spacing:-.065em;margin:14px 0 22px;max-width:900px}.hero p{max-width:680px;color:var(--muted);font-size:18px}.meta{display:flex;gap:16px;flex-wrap:wrap;color:var(--muted);font-size:13px;margin-top:24px}
+    .filters{display:flex;gap:8px;overflow:auto;padding:0 0 18px;scrollbar-width:none}.filter{border:1px solid var(--line);background:var(--soft);color:var(--text);border-radius:999px;padding:10px 14px;white-space:nowrap;cursor:pointer}.filter.active{background:var(--text);color:#0b0d10}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px;padding:10px 0 48px}.card{grid-column:span 6;background:linear-gradient(180deg,#171b20,#111418);border:1px solid var(--line);border-radius:24px;padding:26px;min-height:360px;display:flex;flex-direction:column;transition:.2s transform,.2s border-color}.card:hover{transform:translateY(-3px);border-color:#3a424b}.card.feature{grid-column:span 12;min-height:430px}.num{font-size:12px;color:var(--muted);font-weight:800}.tag{display:inline-flex;margin:18px 0 12px;font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.card h2{font-size:clamp(26px,4vw,44px);line-height:1.02;letter-spacing:-.045em;margin:0 0 16px}.card p{color:#c1c8d0;margin:0 0 20px}.details{margin-top:auto;display:grid;gap:12px}.detail{border-top:1px solid var(--line);padding-top:12px}.detail b{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:4px}.source{display:inline-flex;align-items:center;gap:7px;text-decoration:none;margin-top:20px;font-weight:700}.source:after{content:'↗';color:var(--accent)}
+    .big-picture{margin:0 0 70px;background:var(--accent);color:#0b0d10;border-radius:26px;padding:30px}.big-picture h3{font-size:clamp(28px,5vw,52px);line-height:1;letter-spacing:-.04em;margin:6px 0 18px}.big-picture p{font-size:18px;max-width:850px;margin:0}.footer{border-top:1px solid var(--line);padding:28px 0 42px;color:var(--muted);font-size:13px}
+    .skeleton{opacity:.55}.hidden{display:none}
+    @media(max-width:720px){.wrap{width:min(100% - 22px,var(--max))}.hero{padding:44px 0 32px}.hero h1{font-size:50px}.grid{gap:12px}.card,.card.feature{grid-column:span 12;min-height:auto;padding:22px;border-radius:20px}.card h2{font-size:31px}.top{padding:18px 0}.big-picture{padding:24px;border-radius:20px}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top"><div class="brand">GÜNDEM / TAYLAN</div><div class="pill">HER SABAH YENİ</div></header>
+    <section class="hero">
+      <div class="eyebrow">Günlük özet</div>
+      <h1>Bugün gerçekten bilmen gerekenler.</h1>
+      <p>Yapay zekâ ve teknoloji, Türkiye, dünya, bilim ve uzay gündeminden düşük önemdeki gürültüyü eleyip yalnızca beş gelişmeyi arka planı ve etkileriyle anlatan kişisel haber sayfan.</p>
+      <div class="meta"><span id="date">Yükleniyor…</span><span>•</span><span>5 seçilmiş gelişme</span><span>•</span><span>Detaylı analiz</span></div>
+    </section>
+    <nav class="filters" id="filters"></nav>
+    <main class="grid" id="news"><article class="card feature skeleton"><h2>Günün özeti hazırlanıyor…</h2></article></main>
+    <section class="big-picture"><div class="eyebrow" style="color:#0b0d10">Bugünün büyük resmi</div><h3 id="picture-title">Günün bağlantılarını tek bakışta gör.</h3><p id="picture-text">İçerik yükleniyor.</p></section>
+    <footer class="footer">Kaynaklar doğrudan haber kuruluşlarına bağlanır. Özetler kaynakların yeniden yayımlanması değil; olayların kısa, bağlamsal analizidir.</footer>
+  </div>
+  <script>
+    const names={all:'Tümü',ai:'🤖 Yapay zekâ & teknoloji',turkiye:'🇹🇷 Türkiye',world:'🌍 Dünya',science:'🔬 Bilim & uzay'};
+    let payload,active='all';
+    const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+    function renderFilters(){const cats=['all',...new Set(payload.items.map(x=>x.category))];document.querySelector('#filters').innerHTML=cats.map(c=>`<button class="filter ${c===active?'active':''}" data-c="${c}">${names[c]||c}</button>`).join('');document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{active=b.dataset.c;renderFilters();renderNews()})}
+    function renderNews(){const items=payload.items.filter(x=>active==='all'||x.category===active);document.querySelector('#news').innerHTML=items.map((x,i)=>`<article class="card ${active==='all'&&i===0?'feature':''}"><div class="num">${String(i+1).padStart(2,'0')}</div><div class="tag">${esc(names[x.category]||x.category)}</div><h2>${esc(x.title)}</h2><p>${esc(x.summary)}</p><div class="details"><div class="detail"><b>Arka plan</b>${esc(x.background)}</div><div class="detail"><b>Neden önemli?</b>${esc(x.why)}</div><div class="detail"><b>Olası etkisi</b>${esc(x.impact)}</div></div><a class="source" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.source)}</a></article>`).join('')}
+    fetch('./data/today.json?'+Date.now()).then(r=>r.json()).then(d=>{payload=d;document.querySelector('#date').textContent=d.dateLabel;document.querySelector('#picture-title').textContent=d.bigPicture.title;document.querySelector('#picture-text').textContent=d.bigPicture.text;renderFilters();renderNews()}).catch(()=>{document.querySelector('#news').innerHTML='<article class="card feature"><h2>Bugünkü içerik henüz yayınlanmadı.</h2><p>Biraz sonra tekrar kontrol et.</p></article>'})
+  </script>
+</body>
+</html>
