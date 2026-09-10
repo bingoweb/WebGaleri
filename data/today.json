@@ -1,0 +1,59 @@
+{
+  "dateLabel": "10 Eylül 2026 · Perşembe",
+  "bigPicture": {
+    "title": "Enerji, yapay zekâ ve jeopolitik aynı hikâyenin parçaları oluyor.",
+    "text": "Bugünün gündeminde üç hat birbirine bağlanıyor: yapay zekâ yarışının büyüyen altyapı ve enerji ihtiyacı, Orta Doğu kaynaklı petrol şoku ve merkez bankalarının yeniden sıkılaşma baskısı. Türkiye açısından bunun anlamı, küresel enerji fiyatlarının para politikasını ve enflasyon görünümünü daha doğrudan etkilemesi."
+  },
+  "items": [
+    {
+      "category": "ai",
+      "title": "Yapay zekâ güvenliği tartışması yeniden sertleşti",
+      "summary": "Anthropic araştırmacısı Jacob Coxon’ın istifası ve superintelligence risklerine ilişkin sert uyarıları, ABD ve Birleşik Krallık’ta düzenleme çağrılarını yeniden hızlandırdı.",
+      "background": "Son günlerde hem araştırmacılar hem siyasetçiler, en güçlü modellerin yetenek artışıyla güvenlik testleri arasındaki dengenin bozulduğunu savunuyor. Şirketler ise güvenlik çalışmalarının sürdüğünü ve risklerin yönetildiğini belirtiyor.",
+      "why": "Tartışma artık yalnızca teknik çevrelerde değil, doğrudan yasama süreçlerine taşınıyor. Bu da ileri seviye modeller için test, erişim ve dağıtım kurallarının sıkılaşabileceği anlamına geliyor.",
+      "impact": "Önümüzdeki dönemde büyük AI laboratuvarları daha yoğun denetime, zorunlu değerlendirmelere ve ülkeler arası koordinasyon baskısına maruz kalabilir.",
+      "source": "AP / The Guardian",
+      "url": "https://apnews.com/article/2ed549e07f2f941600a135070487d83d"
+    },
+    {
+      "category": "turkiye",
+      "title": "TCMB bugün Para Politikası Kurulu kararını açıklayacak",
+      "summary": "10 Eylül, TCMB’nin resmi 2026 PPK takvimindeki toplantı günlerinden biri. Karar, petrol fiyatlarındaki yükseliş ve enflasyon görünümü nedeniyle özellikle yakından izleniyor.",
+      "background": "Merkez Bankası’nın önceki toplantısı 23 Temmuz’daydı. Bu kez küresel enerji fiyatlarında yaşanan yeni yükseliş para politikası açısından ek bir dış risk oluşturuyor.",
+      "why": "Faiz kararının kendisi kadar karar metnindeki enflasyon, iç talep ve enerji maliyetlerine ilişkin ton da gelecek aylara dair güçlü sinyal verecek.",
+      "impact": "Karar; TL varlıklar, kredi koşulları, mevduat faizleri ve piyasanın yıl sonu enflasyon beklentileri üzerinde etkili olabilir.",
+      "source": "TCMB",
+      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Main%2BMenu/Duyurular/Takvim"
+    },
+    {
+      "category": "world",
+      "title": "Hürmüz gerilimi petrolü 100 doların üzerinde tutuyor",
+      "summary": "İran ve ABD arasındaki çatışmanın deniz trafiğine yayılması, Basra Körfezi’nden enerji akışına ilişkin endişeleri artırdı ve Brent petrol 100 doların üzerinde kaldı.",
+      "background": "İran’ın bölgedeki gemilere saldırıları ve ABD’nin İran bağlantılı tankerleri hedef alması, dünyanın en kritik enerji geçiş noktalarından Hürmüz Boğazı’nda risk primini hızla yükseltti.",
+      "why": "Hürmüz’de kalıcı bir aksama küresel petrol ve LNG arzını doğrudan etkileyebilir. Enerji fiyatları üzerinden enflasyon ve faiz beklentileri de yeniden yukarı çekilebilir.",
+      "impact": "Enerji ithalatçısı ülkelerde enflasyon baskısı, ulaştırma maliyetleri ve cari açık riski büyüyebilir. Türkiye de bu kanaldan doğrudan etkilenebilir.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/"
+    },
+    {
+      "category": "ai",
+      "title": "ABD-Çin AI gerilimi model distillation tartışmasına taşındı",
+      "summary": "ABD kurumları bazı Çinli AI şirketlerini gelişmiş Amerikan modellerinden izinsiz yetenek aktarımı yapmakla suçladı; Çin suçlamaları reddetti.",
+      "background": "Distillation, güçlü bir modelin çıktılarından daha küçük veya farklı bir modelin yetenek kazanması için yararlanılan bir teknik. Tartışma, bunun ticari sır ve kullanım şartlarıyla nerede çatıştığı üzerinde yoğunlaşıyor.",
+      "why": "AI rekabeti yalnızca çip ihracat kısıtlamalarıyla değil, artık model çıktılarının ve yeteneklerinin sınır ötesi kullanım biçimleriyle de şekilleniyor.",
+      "impact": "Model sağlayıcıların erişim politikaları sertleşebilir, API kullanımında yeni kısıtlamalar ve devlet düzeyinde daha kapsamlı AI ticaret kuralları gündeme gelebilir.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/0f6ca61301630134607551b1dab0d632"
+    },
+    {
+      "category": "science",
+      "title": "Paris Uzay Zirvesi Avrupa’nın uzay bağımsızlığını tartışıyor",
+      "summary": "9-10 Eylül’de Paris’te düzenlenen Uluslararası Uzay Zirvesi, Avrupa’nın fırlatma sistemleri, uydu altyapısı ve uzayda stratejik bağımsızlığına odaklanıyor.",
+      "background": "Avrupa son yıllarda fırlatma kapasitesi ve ticari uzay yatırımlarında ABD’nin gerisinde kaldı. Fransa, IRIS² gibi projelerle daha güçlü bir Avrupa kapasitesi kurulmasını savunuyor.",
+      "why": "Uydu haberleşmesi, navigasyon ve gözlem sistemleri artık yalnızca bilimsel değil; ekonomik ve savunma altyapısının temel bileşenleri.",
+      "impact": "Zirve bağlayıcı karar üretmese bile Avrupa’nın kamu yatırımlarını artırması ve ABD şirketlerine bağımlılığı azaltacak yeni projeleri hızlandırması beklenebilir.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/macron-summit-seek-boost-european-space-despite-no-shows-2026-09-08/"
+    }
+  ]
+}
