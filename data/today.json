@@ -1,59 +1,59 @@
 {
-  "dateLabel": "11 Eylül 2026 · Cuma",
+  "dateLabel": "12 Eylül 2026 · Cumartesi",
   "bigPicture": {
-    "title": "Enerji şoku, faizler ve yapay zekâ artık aynı risk haritasında buluşuyor.",
-    "text": "Bugünün gündemi üç büyük eksende birleşiyor: Hürmüz çevresindeki çatışmalar enerji fiyatlarını yeniden yukarı iterken merkez bankaları enflasyon riskine karşı daha temkinli davranıyor; aynı anda yapay zekâ yarışında güvenlik ve altyapı baskısı büyüyor. Türkiye açısından kritik bağlantı, yüksek petrol fiyatlarının enflasyon ve dış denge üzerindeki baskısını artırırken TCMB'nin faiz indirimlerine ara vererek politika alanını korumayı tercih etmesi. Bilim tarafında ise yapay zekânın Ay keşfinde doğrudan araştırma aracı hâline gelmesi, teknolojinin yalnızca ekonomik değil bilimsel altyapının da merkezine yerleştiğini gösteriyor."
+    "title": "Enerji güvenliği, yapay zekâ altyapısı ve para politikası aynı kırılganlık zincirinde birleşiyor.",
+    "text": "Bugünün gündeminde fiziksel altyapının dayanıklılığı öne çıkıyor. Suudi Arabistan'ın Hürmüz'ü baypas eden Doğu-Batı petrol boru hattını saldırı sonrası kapatması, enerji arzındaki jeopolitik riskin daha da büyüdüğünü gösterirken; BAE'nin dev yapay zekâ veri merkezi planını füze ve İHA tehdidine göre yeniden tasarlaması teknoloji altyapısının da artık doğrudan güvenlik meselesi olduğunu ortaya koyuyor. Türkiye'de piyasa katılımcılarının yıl sonu enflasyon beklentisinin yükselmesi ve büyüme beklentisinin gerilemesi, yüksek enerji maliyetlerinin para politikası alanını daraltabileceğine işaret ediyor. Aynı anda Yeni Delhi'de başlayan BRICS zirvesi, İran savaşı nedeniyle kendi üyeleri arasındaki ayrışmayı yönetmeye çalışıyor. Bilim tarafında Hubble ve Webb'in Neptün ötesindeki küçük cisimleri birlikte incelemesi ise güneş sisteminin oluşumuna dair milyarlarca yıllık izleri okumamızı sağlıyor."
   },
   "items": [
     {
       "category": "ai",
-      "title": "OpenAI, güvenlik kaygıları nedeniyle geliştirme hızını düşürmeye açık olduğunu söyledi",
-      "summary": "Sam Altman'ın çalışanlara, ileri düzey yapay zekâ sistemlerinin geliştirilmesini gerektiğinde yavaşlatmaya açık olduklarını söylediği bildirildi. Açıklama, güçlü modellerin güvenliği ve denetimi konusundaki baskının belirgin biçimde arttığı bir döneme denk geliyor.",
-      "background": "Son haftalarda yapay zekâ laboratuvarlarında model yeteneklerinin hızla artması, bağımsız güvenlik testleri ve olası düzenlemeler yeniden tartışılıyor. Anthropic de devlet bağlantılı aktörlerin ve siber suç gruplarının gelişmiş modelleri kötüye kullanma girişimlerini raporladı.",
-      "why": "Önde gelen bir AI şirketinin geliştirme temposunu güvenlik gerekçesiyle yavaşlatma ihtimalini açıkça gündeme getirmesi, sektörün 'önce hız' yaklaşımında önemli bir ton değişikliğine işaret ediyor.",
-      "impact": "Daha sıkı model değerlendirmeleri, dağıtım öncesi güvenlik testleri ve devlet düzenlemeleri hız kazanabilir. Büyük laboratuvarların ürün takvimleri de güvenlik kriterlerine daha fazla bağlı hâle gelebilir.",
-      "source": "Reuters / Bloomberg",
-      "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/"
+      "title": "BAE, dev yapay zekâ veri merkezi planını İran saldırıları sonrası yeniden tasarlıyor",
+      "summary": "Birleşik Arap Emirlikleri'nin Abu Dabi'de planlanan 5 gigavatlık büyük yapay zekâ veri merkezi projesi, bölgedeki İran saldırılarının ardından daha dağıtık ve dayanıklı bir mimariye geçiriliyor. Bazı bölümlerin yer altına alınması, patlamaya dayanıklı yapılar ve hava savunması gibi önlemler değerlendiriliyor.",
+      "background": "Proje, OpenAI, Oracle ve SoftBank'ın da yer aldığı Stargate girişimiyle bağlantılı ve BAE'nin küresel bir yapay zekâ merkezi olma hedefinin önemli parçalarından biri. Reuters'a göre mart ayındaki İran saldırıları BAE ve Bahreyn'deki bazı veri merkezlerine zarar verdi ve planın güvenlik varsayımlarını değiştirdi.",
+      "why": "Yapay zekâ yarışında artık yalnızca çip ve enerji kapasitesi değil, veri merkezlerinin savaş ve sabotaj gibi fiziksel risklere karşı dayanıklılığı da stratejik bir unsur hâline geliyor.",
+      "impact": "Büyük AI veri merkezi yatırımlarında coğrafi dağıtım, yer altı tesisleri, yedek enerji ve fiziksel güvenlik harcamaları artabilir. Bu da yapay zekâ altyapısının maliyetini yükseltirken hangi ülkelerin güvenli yatırım merkezi sayılacağını da değiştirebilir.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/"
     },
     {
       "category": "turkiye",
-      "title": "TCMB politika faizini yüzde 37'de sabit tuttu",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası 10 Eylül toplantısında bir hafta vadeli repo faizini yüzde 37'de, gecelik borç verme faizini yüzde 40'ta ve borçlanma faizini yüzde 35,5'te sabit bıraktı.",
-      "background": "TCMB, son dönem enflasyon göstergelerinin ana eğilimde gerilemeye işaret ettiğini belirtirken iç talebin zayıf seyrettiğini vurguladı. Buna karşılık jeopolitik gelişmeler nedeniyle yüksek enerji fiyatlarının enflasyon görünümü üzerinde yukarı yönlü risk oluşturduğunu açıkça belirtti.",
-      "why": "Karar, petrol fiyatlarının yeniden 100 doların üzerine çıktığı bir dönemde Merkez Bankası'nın yeni bir faiz indirimi yerine beklemeyi tercih ettiğini gösteriyor.",
-      "impact": "Yüksek enerji maliyetleri kalıcılaşırsa enflasyondaki düşüş daha yavaş olabilir ve TCMB'nin sonraki toplantılarda faiz indirimi için hareket alanı daralabilir. Kredi ve mevduat faizlerinde hızlı bir gevşeme beklentisi de ötelenebilir.",
-      "source": "TCMB",
-      "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB%2BTR/Main%2BMenu/Duyurular/Basin/2026/DUY2026-38"
+      "title": "TCMB anketinde yıl sonu enflasyon beklentisi yüzde 29,61'e yükseldi",
+      "summary": "TCMB'nin Eylül Piyasa Katılımcıları Anketi'nde 2026 yıl sonu TÜFE beklentisi yüzde 29,43'ten yüzde 29,61'e çıktı. 12 ay sonrası enflasyon beklentisi yüzde 23,70 olurken 2026 büyüme beklentisi yüzde 3'e geriledi.",
+      "background": "Anket 67 reel ve finansal sektör temsilcisi ile profesyonelin yanıtlarından oluşuyor. Katılımcıların 12 ay sonrası dolar/TL beklentisi 57,43'ten 58,60'a yükselirken yıl sonu cari açık beklentisi yaklaşık 50,1 milyar dolar oldu. Politika faizi için ilk toplantı beklentisi yüzde 37 seviyesinde kaldı.",
+      "why": "TCMB'nin 10 Eylül'de politika faizini yüzde 37'de sabit tutmasının hemen ardından beklentilerin enflasyonda hafif yukarı, büyümede aşağı dönmesi, ekonomideki denge arayışının zorlaştığını gösteriyor.",
+      "impact": "Enerji fiyatlarındaki küresel yükseliş sürerse enflasyon beklentileri daha da katılaşabilir ve faiz indirimleri daha yavaş ilerleyebilir. Kur ve finansman maliyetleri açısından da 12 aylık beklentiler yakından izlenecek.",
+      "source": "TCMB / Anadolu Ajansı",
+      "url": "https://aa.com.tr/tr/ekonomi/tcmbnin-eylul-ayi-piyasa-katilimcilari-anketi-yayimlandi/4054008"
     },
     {
       "category": "world",
-      "title": "Hürmüz gerilimi petrolü 100 doların üzerinde tutuyor",
-      "summary": "İran savaşı ve tanker saldırılarının genişlemesiyle Brent petrol 10 Eylül'de yüzde 6'dan fazla yükselerek 107,63 dolardan kapandı; WTI da 102,48 dolara çıktı.",
-      "background": "Hürmüz Boğazı'ndaki tanker saldırılarına ek olarak İran bağlantılı Husilerin Yemen'deki Mocha Limanı'nı ele geçirmesi ve Suudi enerji tesislerine yönelik risklerin artması, piyasanın yalnızca İran çevresindeki arz kesintilerini değil daha geniş bir bölgesel enerji krizini fiyatlamasına yol açıyor.",
-      "why": "Hürmüz, küresel petrol ve LNG ticaretinin en kritik geçiş noktalarından biri. Uzun süreli aksama, enerji şokunu doğrudan küresel enflasyona ve para politikasına taşıyabilir.",
-      "impact": "Enerji ithalatçısı ülkelerde yakıt ve ulaştırma maliyetleri artabilir; cari açıklar ve enflasyon baskısı büyüyebilir. Türkiye de petrol ve doğal gaz ithalatı nedeniyle bu şoka açık.",
+      "title": "Suudi Arabistan kritik Doğu-Batı petrol boru hattını saldırı sonrası kapattı",
+      "summary": "Suudi Arabistan, Irak yönünden geldiği belirtilen bir İHA saldırısının ardından Hürmüz Boğazı'nı baypas eden 1.200 kilometrelik Doğu-Batı petrol boru hattını tedbir amacıyla kapattı. Hat son aylarda günde yaklaşık 4-5 milyon varil petrol taşıyordu.",
+      "background": "Hat, Hürmüz'deki tanker trafiğinin savaş nedeniyle ciddi biçimde azalması üzerine Suudi petrolünü Kızıldeniz'e ulaştıran en kritik alternatiflerden biri hâline gelmişti. Aynı zamanda İran destekli Husilerin Babülmendep girişindeki Perim Adası'nı ele geçirdiği bildirildi.",
+      "why": "Hürmüz ve Babülmendep'in ardından Hürmüz'ü baypas eden kara hattının da risk altına girmesi, küresel enerji arzı için alternatif güzergâhların eş zamanlı baskı altında olduğunu gösteriyor.",
+      "impact": "Kesinti uzarsa petrol fiyatlarında yeni sıçramalar görülebilir. Enerji ithalatçısı Türkiye dahil birçok ülkede akaryakıt, ulaştırma, cari denge ve enflasyon üzerinde ek baskı oluşabilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/"
+      "url": "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/"
     },
     {
       "category": "world",
-      "title": "ECB enerji kaynaklı enflasyon nedeniyle faizi yüzde 2,5'e yükseltti",
-      "summary": "Avrupa Merkez Bankası 10 Eylül'de politika faizini 25 baz puan artırarak yüzde 2,5'e çıkardı. Bu, 2026'daki ikinci faiz artışı oldu.",
-      "background": "Euro Bölgesi enflasyonu enerji fiyatlarındaki sıçramanın etkisiyle yüzde 3'ün üzerine çıktı. ECB, 2026 büyüme tahminini yüzde 0,9'a yükseltmesine rağmen enflasyonun hedefin üzerinde uzun süre kalabileceği uyarısında bulundu.",
-      "why": "ECB'nin hamlesi, Orta Doğu'daki çatışmanın enerji piyasası üzerinden doğrudan büyük merkez bankalarının kararlarına geçtiğini gösteriyor.",
-      "impact": "Avrupa'da kredi koşulları daha sıkı kalabilir. Daha yüksek Avrupa faizleri ve enerji maliyetleri Türkiye'nin ihracat talebi, dış finansman koşulları ve kur dinamikleri açısından da önem taşıyor.",
+      "title": "BRICS zirvesi Yeni Delhi'de İran savaşı gölgesinde başladı",
+      "summary": "12-13 Eylül'de Yeni Delhi'de düzenlenen BRICS Liderler Zirvesi, İran ile BAE'nin savaşta karşıt konumlarda bulunması nedeniyle blok içindeki en ciddi birlik sınavlarından biriyle karşı karşıya.",
+      "background": "İran 2024'ten beri BRICS üyesi; BAE ise İran saldırılarının ardından ağustosta Tahran'la ticari ve mali işlemleri askıya aldı. Zirvede Çin, Rusya, Hindistan, İran ve diğer üyelerin Orta Doğu krizi, yaptırımlar, ödeme sistemleri ve kalkınma finansmanı konularında ortak dil bulması bekleniyor.",
+      "why": "BRICS son yıllarda daha büyük ve daha iddialı bir siyasi-ekonomik blok hâline geldi. Ancak genişleme, üyeler arasındaki jeopolitik çıkar çatışmalarını da büyüttü; İran savaşı bu yapının gerçekten ortak tutum üretip üretemeyeceğini test ediyor.",
+      "impact": "Ortak bildirinin dili, BRICS'in Batı dışı bir siyasi koordinasyon platformu olma iddiasının gücü hakkında önemli sinyal verecek. Ödeme sistemlerinin birbirine bağlanması ve dolar dışı ticaret girişimleri de orta vadede finansal mimariyi etkileyebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/ecb-raises-interest-rates-fight-off-inflation-jump-2026-09-10/"
+      "url": "https://www.reuters.com/world/china/india-hosts-brics-summit-iran-war-tests-bloc-unity-2026-09-10/"
     },
     {
       "category": "science",
-      "title": "NASA ve IBM, Ay'daki buz ve kraterleri haritalamak için açık kaynak AI modeli yayımladı",
-      "summary": "NASA ve IBM, Ay yüzeyindeki buz birikimleri, kraterler ve volkanik yapıları analiz etmek için Lunar Foundation Model adlı açık kaynak bir yapay zekâ modeli geliştirdi.",
-      "background": "Model, dört NASA görevindeki dokuz cihazdan gelen 30'dan fazla veri katmanı üzerinde eğitildi. Benchmark testlerinde bazı Ay yüzeyi sınıflandırma görevlerinde mevcut yöntemlere kıyasla yüzde 23'e kadar daha yüksek doğruluk sağladı.",
-      "why": "Ay'daki su buzu, gelecekte astronotların su, oksijen ve hatta yakıt üretmesi için kritik bir kaynak. Güvenli iniş alanlarının ve kaynak bölgelerinin daha hızlı belirlenmesi Artemis programı açısından doğrudan değer taşıyor.",
-      "impact": "Yapay zekâ, gezegen biliminde büyük veri kümelerinin analizini hızlandırabilir ve Ay'da kalıcı insan varlığı için görev planlamasını iyileştirebilir. Açık kaynak olması, üniversitelerin ve bağımsız araştırmacıların da modeli geliştirmesine olanak veriyor.",
-      "source": "Reuters / NASA / IBM",
-      "url": "https://www.reuters.com/science/ibm-nasa-launch-ai-model-help-map-ice-craters-moon-2026-09-10/"
+      "title": "Hubble ve Webb, Neptün ötesindeki küçük dünyalarda Güneş Sistemi'nin geçmişini okuyor",
+      "summary": "NASA'nın Hubble ve James Webb uzay teleskoplarının ortak gözlemleri, Neptün'ün ötesinde bulunan çok sönük Trans-Neptün Cisimlerini daha önce mümkün olmayan ayrıntıda incelemeyi sağladı. Araştırmacılar yeni cisimler de keşfetti ve yüzey özelliklerinin erken Güneş Sistemi'nden kalan izleri koruduğunu gösterdi.",
+      "background": "Bu küçük buzlu cisimler milyarlarca yıldır Güneş Sistemi'nin dış bölgelerinde dolaşıyor. Hubble'ın görünür ışık yetenekleri ile Webb'in kızılötesi gözlemlerinin birleştirilmesi, nesnelerin yörüngeleri ve yüzey bileşimleri hakkında birbirini tamamlayan veriler sağlıyor.",
+      "why": "Trans-Neptün Cisimleri gezegenler oluşurken kullanılan ilk malzemenin büyük ölçüde değişmeden kalmış örnekleri sayılıyor. Bu nedenle kimyasal yapıları ve dağılımları Dünya dahil gezegenlerin nasıl oluştuğunu anlamaya yardım ediyor.",
+      "impact": "Hubble-Webb ortak gözlem tekniği, dış Güneş Sistemi'ndeki çok küçük ve sönük cisimlerin nüfusunu daha doğru çıkarmayı ve gezegen oluşum modellerini test etmeyi mümkün kılabilir.",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
     }
   ]
 }
