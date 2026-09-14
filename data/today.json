@@ -1,59 +1,59 @@
 {
-  "dateLabel": "13 Eylül 2026 · Pazar",
+  "dateLabel": "14 Eylül 2026 · Pazartesi",
   "bigPicture": {
-    "title": "Güvenlik, enerji ve yapay zekâ artık aynı stratejik denklemde buluşuyor.",
-    "text": "Bugünün gündeminde üç farklı alan aynı ortak soruya bağlanıyor: kritik sistemleri ne kadar hızlı büyütebiliriz ve onları ne kadar güvenli tutabiliriz? Yapay zekâ cephesinde Anthropic ve OpenAI liderlerinin daha güçlü modeller için daha sert güvenlik kuralları çağrısı yapması, sektörün yalnızca kapasite yarışıyla ilerleyemeyeceğini gösteriyor. Orta Doğu'da Hürmüz Boğazı'nda yeni bir gemi saldırısı enerji arzı riskini yeniden yükseltirken, BRICS'in İran ve BAE dahil üyeleri ortak bildiride itidal ve diplomasi çağrısı yaptı. Türkiye de Hürmüz ve bölgesel çatışmalar konusunda İran'la doğrudan diplomatik temasını sürdürüyor. Bilim tarafında Chandra'nın ortaya çıkardığı yeni 'hiperyumuşak X-ışını kaynakları' ise evrende daha önce gözden kaçmış büyük bir yıldız sistemi nüfusunun bulunabileceğine işaret ediyor."
+    "title": "Bugünün ortak teması: hızlanan sistemler, daralan güvenlik payları.",
+    "text": "Yapay zekâ sektöründe önde gelen yöneticilerin gelişim hızının düşürülmesi çağrısı piyasalarda doğrudan fiyatlanmaya başladı; bu, teknoloji yarışının artık yalnızca kapasite değil güvenlik ve denetim üzerinden de şekillendiğini gösteriyor. Aynı anda Orta Doğu'da Hürmüz ve Suudi enerji altyapısına yönelik saldırılar petrolü yeniden 100 doların üzerinde tutarak küresel enflasyon baskısını artırıyor ve ABD Merkez Bankası için faiz artışı beklentilerini güçlendiriyor. Türkiye'de milyonlarca öğrenci yeni eğitim yılına başlarken İstanbul'da trafik yükünü azaltmak için ilk gün özel ders saatleri uygulanıyor. Bilim ve uzay tarafında ise ESA'nın FLEX ve Sentinel-3C görevleri, iklim ve bitki sağlığını daha ayrıntılı izlemek için fırlatmaya hazırlanıyor. Bugünün büyük resmi, ister yapay zekâ ister enerji ister şehir altyapısı olsun, hızlı büyüyen sistemlerde dayanıklılık ve risk yönetiminin giderek belirleyici hale geldiği yönünde."
   },
   "items": [
     {
       "category": "ai",
-      "title": "Yapay zekâ liderlerinden gelişim hızını düşürme ve zorunlu güvenlik kuralları çağrısı",
-      "summary": "Anthropic CEO'su Dario Amodei, giderek güçlenen yapay zekâ modellerinin geliştirilme hızının azaltılması gerektiğini söylerken; OpenAI CEO'su Sam Altman da ciddi yapay zekâ risklerinin kabul edilemez olduğunu ve sektör genelinde daha bağlayıcı güvenlik önlemleri gerektiğini açıkladı.",
-      "background": "Çağrılar, son dönemde yapay zekâ ajanlarının siber saldırı, dolandırıcılık ve öngörülmeyen otonom davranışlarda kullanılabildiğine ilişkin vakaların ardından geldi. ABD Senatosu'nda da şirketlere bilinen büyük riskleri azaltma yükümlülüğü getirebilecek düzenleme seçenekleri tartışılıyor.",
-      "why": "Bu açıklamalar, önde gelen yapay zekâ şirketleri arasındaki rekabetin ilk kez açık biçimde 'daha hızlı model' hedefinden 'kontrollü ilerleme' tartışmasına kaydığını gösteriyor. Düzenleme gündemi gönüllü güvenlik taahhütlerinden yasal sorumluluğa doğru ilerleyebilir.",
-      "impact": "Yeni güvenlik testleri, bağımsız değerlendirme ve yasal sorumluluk kuralları devreye girerse ileri model geliştirme takvimleri yavaşlayabilir. Buna karşılık kurumsal kullanıcılar için güvenilirlik ve denetlenebilirlik standartları güçlenebilir.",
+      "title": "Yapay zekâda yavaşlama çağrısı piyasaları sarstı",
+      "summary": "Anthropic başta olmak üzere önde gelen yapay zekâ şirketlerinin yöneticileri, ileri modellerin geliştirilme hızının güvenlik gerekçeleriyle düşürülmesi ve bağımsız denetimin güçlendirilmesi çağrısında bulundu. Açıklamaların ardından Asya'daki yapay zekâ bağlantılı hisselerde belirgin satışlar görüldü.",
+      "background": "Anthropic CEO'su Dario Amodei'nin daha kontrollü geliştirme çağrısına Sam Altman, Elon Musk ve diğer teknoloji liderlerinden destek geldi. Tartışma, gelişmiş yapay zekâ ajanlarının siber güvenlik, ekonomik istikrar ve otonom davranış riskleri etrafında yoğunlaşıyor. ABD yönetimi ise Çin'le rekabet gerekçesiyle geniş çaplı bir yavaşlamaya mesafeli duruyor.",
+      "why": "Bu tartışma yapay zekâ yarışının yatırımcılar tarafından da artık yalnızca büyüme fırsatı olarak değil, düzenleme ve güvenlik riski olarak fiyatlandığını gösteriyor. Bağımsız değerlendirme ve ortak güvenlik standartları yaygınlaşırsa sektörün geliştirme modeli değişebilir.",
+      "impact": "İleri model takvimleri uzayabilir, güvenlik testleri ve denetim maliyetleri artabilir. Buna karşılık ikinci kademe çip ve altyapı şirketleri için rekabet alanı genişleyebilir; kurumsal kullanıcılar açısından daha ölçülebilir ve denetlenebilir sistemler ortaya çıkabilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/"
+      "url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/"
     },
     {
       "category": "turkiye",
-      "title": "Türkiye, Hürmüz ve bölgesel çatışmalar için İran'la doğrudan temasını sürdürüyor",
-      "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon görüşmesi yaptı. Görüşmede Hürmüz Boğazı'na ilişkin temaslar, bölgedeki çatışmaların durdurulmasına yönelik müzakereler ve Suudi Arabistan'a yönelik saldırılar ele alındı.",
-      "background": "Türkiye enerji ithalatına yüksek ölçüde bağımlı olduğu için Hürmüz Boğazı'ndaki gerilim yalnızca dış politika değil, enerji maliyetleri ve enflasyon açısından da doğrudan önem taşıyor. Son günlerde Boğaz trafiğinin aksaması ve Suudi enerji altyapısına yönelik saldırılar küresel petrol fiyatlarını 100 doların üzerine taşıdı.",
-      "why": "Ankara'nın İran'la doğrudan temas kurması, Türkiye'nin bölgesel gerilimin yayılmasını sınırlama ve enerji akışının güvenliğini koruma çabasının bir parçası. Hürmüz'de kalıcı bir çözüm sağlanamaması Türkiye'nin ekonomik dengelerini de zorlayabilir.",
-      "impact": "Diplomatik temaslar sonuç vermez ve enerji arzı daha fazla kesintiye uğrarsa Türkiye'de akaryakıt fiyatları, cari açık ve enflasyon üzerinde ilave baskı oluşabilir. Çatışmaların sınırlanması ise bu riskleri hızla azaltabilir.",
+      "title": "2026-2027 eğitim yılı başladı; İstanbul'da ilk gün özel saat uygulaması var",
+      "summary": "Türkiye'de yeni eğitim öğretim yılı bugün başladı. İstanbul'daki resmi ve özel ilkokul, ortaokul ve liselerde trafik yoğunluğunu azaltmak amacıyla ilk gün dersler 10.00-15.00 saatleri arasında yapılacak.",
+      "background": "İstanbul'da yaklaşık 2,8 milyon öğrenci, 161 binden fazla öğretmen ve yaklaşık 19 bin okul servisi aynı gün yeniden trafiğe çıkıyor. İl Milli Eğitim Müdürlüğü, öğrencilerin ve öğretmenlerin okullara daha güvenli ulaşabilmesi için başlangıç saatlerini geçici olarak değiştirdi; Valilik de okul çevrelerinde ek güvenlik tedbirleri açıkladı.",
+      "why": "Eğitim yılının açılışı milyonlarca aileyi doğrudan etkiliyor ve özellikle büyükşehirlerde ulaşım, güvenlik ve kamu hizmetleri üzerinde ciddi bir günlük yük oluşturuyor. İstanbul'daki uygulama, şehir yönetiminin bu ani yoğunluğu dağıtmak için kullandığı önemli bir operasyonel önlem.",
+      "impact": "İlk gün trafik baskısının azalması hedefleniyor. Uygulamanın etkili olması, sonraki yıllarda okul açılışı gibi yüksek yoğunluklu günlerde benzer saat düzenlemelerinin daha sistematik kullanılmasına örnek olabilir.",
       "source": "Anadolu Ajansı",
-      "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/4055492"
+      "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-okullarda-14-eylulde-dersler-1000-1500-saatleri-arasinda-yapilacak/4054778"
     },
     {
       "category": "world",
-      "title": "Hürmüz Boğazı'nda yeni gemi saldırısı enerji arzı endişesini büyüttü",
-      "summary": "Bir geminin Hürmüz Boğazı'nda türü henüz netleşmeyen bir mühimmatla vurulduğuna ilişkin yeni rapor, küresel petrol arzına yönelik kaygıları yeniden artırdı. Olay, Suudi Arabistan'ın kritik Doğu-Batı petrol boru hattını bir İHA saldırısı sonrasında kapatmasının hemen ardından geldi.",
-      "background": "Hürmüz, küresel petrol ticaretinin en kritik geçiş noktalarından biri. Çatışmalar nedeniyle boğaz trafiği zaten ciddi biçimde azalmış durumda; Suudi Arabistan'ın Hürmüz'ü baypas eden kara hattındaki kesinti de alternatif güzergâh kapasitesini zayıflattı.",
-      "why": "Hem deniz yolu hem de alternatif kara hattı aynı anda risk altına girdiğinde enerji piyasasının şokları absorbe etme kapasitesi azalıyor. Bu nedenle tek bir yeni saldırı dahi fiyatlarda sert hareket yaratabiliyor.",
-      "impact": "Kesintiler uzarsa petrol, dizel ve jet yakıtı fiyatları daha da yükselebilir. Bu durum enerji ithalatçısı ülkelerde enflasyonu artırabilir, merkez bankalarının faiz indirimlerini geciktirebilir ve küresel büyümeyi yavaşlatabilir.",
+      "title": "Suudi petrol hattına saldırı ve Hürmüz gerilimi petrolü yeniden sıçrattı",
+      "summary": "Husilerin Suudi Arabistan'ın kritik Doğu-Batı petrol boru hattına yönelik saldırısı ve Hürmüz Boğazı'ndaki yeni gemi saldırıları, petrol fiyatlarını yüzde 3'ün üzerinde yükseltti. Brent petrol 107 dolar civarına çıktı.",
+      "background": "Doğu-Batı hattı, Hürmüz Boğazı'nı baypas eden en önemli alternatif ihracat güzergâhlarından biri. Hattın geçici olarak devre dışı kalması küresel arzın yaklaşık yüzde 4'üne kadar olan kısmını riske atabilir. Aynı dönemde Hürmüz'deki ticari gemi trafiği de normal seviyelerin altında seyrediyor.",
+      "why": "Hem ana deniz geçişinin hem de alternatif kara hattının aynı anda risk altında olması, küresel enerji sistemindeki yedek kapasiteyi daraltıyor. Bu nedenle bölgedeki yeni bir saldırı yalnızca yerel güvenlik olayı değil, doğrudan küresel fiyat şoku yaratabilecek bir gelişme.",
+      "impact": "Petrol ve rafine yakıt fiyatları yüksek kalırsa enflasyon yeniden hızlanabilir, enerji ithalatçısı ülkelerin cari açıkları büyüyebilir ve merkez bankalarının faiz indirimleri gecikebilir. Türkiye gibi enerji ithalatına bağımlı ekonomiler bu baskıyı daha hızlı hissedebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/"
+      "url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/"
     },
     {
       "category": "world",
-      "title": "BRICS, İran savaşı gölgesinde ortak bildiride 'azami itidal' çağrısı yaptı",
-      "summary": "Yeni Delhi'deki BRICS zirvesinde üyeler, Orta Doğu'daki şiddetin tırmanmasından ciddi kaygı duyduklarını belirten ortak bir deklarasyonda uzlaşarak taraflara azami itidal, diyalog ve diplomasi çağrısında bulundu.",
-      "background": "Blok içinde hem İran hem de ABD'nin yakın ortağı Birleşik Arap Emirlikleri yer alıyor. Bu nedenle ortak metin üzerinde anlaşılması, savaşın blok içindeki siyasi ayrışmayı ne ölçüde derinleştirdiğinin önemli bir testi olarak görülüyordu.",
-      "why": "BRICS'in büyüyen üyelik yapısı ekonomik ağırlığını artırırken dış politika konularında ortak tutum üretmesini zorlaştırıyor. İran savaşı gibi üyelerin doğrudan karşıt çıkarlarının bulunduğu bir konuda ortak bildirinin çıkması, bloğun diplomatik koordinasyon kapasitesini koruduğunu gösteriyor.",
-      "impact": "Deklarasyon savaşı tek başına durdurmasa da İran ile Körfez ülkeleri arasında çok taraflı müzakere kanallarını açık tutabilir. BRICS'in bundan sonraki adımları, bloğun yalnız ekonomik değil siyasi bir platform olup olamayacağını da gösterecek.",
+      "title": "Goldman Sachs ve JPMorgan, Fed'den eylülde faiz artışı beklemeye başladı",
+      "summary": "ABD'de ağustos enflasyonunun beklenenden güçlü gelmesi ve petrol fiyatlarının 100 doların üzerinde kalması sonrası Goldman Sachs ile JPMorgan, Federal Reserve'in eylül toplantısında 25 baz puan faiz artırmasını beklediklerini açıkladı.",
+      "background": "ABD'de tüketici ve üretici fiyatlarındaki son veriler dezenflasyon sürecinin hız kaybettiğine işaret ediyor. Orta Doğu kaynaklı enerji şoku da yakıt ve taşımacılık maliyetlerini yukarı çekiyor. Piyasalarda eylül toplantısında faiz artışı olasılığı belirgin biçimde yükseldi.",
+      "why": "Fed'in yeniden faiz artırması, küresel finans koşullarını sıkılaştırarak dolar, tahvil faizleri, hisse senetleri ve gelişmekte olan ülke para birimleri üzerinde doğrudan etki yaratabilir. Bu aynı zamanda enerji krizinin para politikasına ne kadar hızlı yansıdığını gösteriyor.",
+      "impact": "ABD tahvil faizleri ve dolar güçlenebilir; küresel borçlanma maliyetleri artabilir. Gelişmekte olan ekonomilerde sermaye akımları ve kur baskısı yeniden belirginleşebilir, büyüme görünümü zayıflayabilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12/"
+      "url": "https://www.reuters.com/business/goldman-sachs-now-expects-fed-hike-rates-september-2026-09-14/"
     },
     {
       "category": "science",
-      "title": "Chandra, daha önce bilinmeyen 84 'hiperyumuşak' X-ışını kaynağı keşfetti",
-      "summary": "NASA'nın Chandra X-ışını Gözlemevi verilerini inceleyen astronomlar, altı farklı galakside alışılmadık derecede düşük enerjili X-ışınları ve güçlü morötesi ışınım üreten 84 gizemli kaynak belirledi. Araştırmacılar bunların daha önce tanımlanmamış yeni bir nesne sınıfı olabileceğini düşünüyor.",
-      "background": "Kaynakların kara delik, nötron yıldızı veya beyaz cücenin bir eş yıldızdan madde çektiği ikili sistemlerle ilişkili olabileceği düşünülüyor. Düşük enerjili X-ışınlarının tespitinin zor olması ve güçlü morötesi ışınımın yıldızlararası hidrojen ve helyum tarafından soğurulması, bu sistemlerin şimdiye dek gözden kaçmasına yol açmış olabilir.",
-      "why": "Bu nesneler, astronomideki iki büyük soruya aynı anda ışık tutabilir: Tip Ia süpernovalarının hangi yıldız sistemlerinden doğduğu ve galaksilerdeki gazın iyonlaşmasında eksik kalan enerji kaynağının ne olduğu.",
-      "impact": "Keşif doğrulanırsa galaksilerde daha önce hesaba katılmamış büyük bir ikili yıldız sistemi nüfusu olduğu ortaya çıkabilir. Bu da süpernova modellerini, galaksi evrimini ve evrenin genişleme hızını ölçmekte kullanılan kozmolojik yöntemleri etkileyebilir.",
-      "source": "NASA / Chandra X-ray Center",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+      "title": "ESA, bitkilerin fotosentezini uzaydan ölçecek FLEX görevini fırlatmaya hazırlanıyor",
+      "summary": "Avrupa Uzay Ajansı, FLEX ve Copernicus Sentinel-3C uydularını Vega-C roketiyle Fransız Guyanası'ndan fırlatmaya hazırlanıyor. FLEX, bitkilerin yaydığı zayıf floresan ışığını ölçerek fotosentez faaliyetini küresel ölçekte doğrudan izleyecek.",
+      "background": "FLEX görevi yaklaşık 814 kilometre irtifada çalışacak ve bitki sağlığı, karbon döngüsü ve su döngüsü hakkında yeni veriler sağlayacak. Sentinel-3C ise okyanuslar, kara yüzeyi ve atmosfer için Copernicus gözlem kapasitesini güçlendirecek. Fırlatma yerel saatle 14 Eylül gecesi planlanıyor.",
+      "why": "Bugüne kadar bitki üretkenliği çoğunlukla dolaylı göstergelerle izleniyordu. FLEX'in fotosentezin yan ürünü olan floresansı doğrudan ölçmesi, kuraklık ve sıcaklık stresinin bitkiler üzerindeki etkisini daha erken tespit etmeyi mümkün kılabilir.",
+      "impact": "Görev başarılı olursa tarım verimliliği, kuraklık takibi, orman sağlığı ve iklim modelleri için daha hassas veri üretilebilir. Bu veriler karbon bütçelerinin ve iklim değişikliğinin ekosistemler üzerindeki etkisinin daha doğru hesaplanmasına yardımcı olacak.",
+      "source": "European Space Agency (ESA)",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX"
     }
   ]
 }
