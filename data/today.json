@@ -1,59 +1,59 @@
 {
-  "dateLabel": "14 Eylül 2026 · Pazartesi",
+  "dateLabel": "15 Eylül 2026 · Salı",
   "bigPicture": {
-    "title": "Bugünün ortak teması: hızlanan sistemler, daralan güvenlik payları.",
-    "text": "Yapay zekâ sektöründe önde gelen yöneticilerin gelişim hızının düşürülmesi çağrısı piyasalarda doğrudan fiyatlanmaya başladı; bu, teknoloji yarışının artık yalnızca kapasite değil güvenlik ve denetim üzerinden de şekillendiğini gösteriyor. Aynı anda Orta Doğu'da Hürmüz ve Suudi enerji altyapısına yönelik saldırılar petrolü yeniden 100 doların üzerinde tutarak küresel enflasyon baskısını artırıyor ve ABD Merkez Bankası için faiz artışı beklentilerini güçlendiriyor. Türkiye'de milyonlarca öğrenci yeni eğitim yılına başlarken İstanbul'da trafik yükünü azaltmak için ilk gün özel ders saatleri uygulanıyor. Bilim ve uzay tarafında ise ESA'nın FLEX ve Sentinel-3C görevleri, iklim ve bitki sağlığını daha ayrıntılı izlemek için fırlatmaya hazırlanıyor. Bugünün büyük resmi, ister yapay zekâ ister enerji ister şehir altyapısı olsun, hızlı büyüyen sistemlerde dayanıklılık ve risk yönetiminin giderek belirleyici hale geldiği yönünde."
+    "title": "Bugünün büyük resmi: teknoloji ve enerji riskleri artık ekonomi politikasını doğrudan şekillendiriyor.",
+    "text": "Yapay zekâda insan denetimini güçlendirme çabaları, sektörün yalnızca daha güçlü modeller üretmekten güvenilir kontrol mekanizmaları kurmaya doğru kaydığını gösteriyor. Aynı anda Orta Doğu'da Suudi enerji altyapısı ve Kızıldeniz geçişleri üzerindeki baskı petrol fiyatlarını yeniden yukarı taşıyarak küresel enflasyon ve faiz beklentilerini etkiliyor. Türkiye'de üretim ve dış ticaret göstergeleri büyümenin bileşimine ilişkin yeni sinyaller verirken, Avrupa'nın FLEX ve Sentinel-3C görevleri iklim, tarım ve ekosistem takibinde daha hassas bir gözlem dönemini başlatıyor. Ortak tema, karmaşık sistemlerde hız kadar dayanıklılık, ölçüm ve denetimin de belirleyici hale gelmesi."
   },
   "items": [
     {
       "category": "ai",
-      "title": "Yapay zekâda yavaşlama çağrısı piyasaları sarstı",
-      "summary": "Anthropic başta olmak üzere önde gelen yapay zekâ şirketlerinin yöneticileri, ileri modellerin geliştirilme hızının güvenlik gerekçeleriyle düşürülmesi ve bağımsız denetimin güçlendirilmesi çağrısında bulundu. Açıklamaların ardından Asya'daki yapay zekâ bağlantılı hisselerde belirgin satışlar görüldü.",
-      "background": "Anthropic CEO'su Dario Amodei'nin daha kontrollü geliştirme çağrısına Sam Altman, Elon Musk ve diğer teknoloji liderlerinden destek geldi. Tartışma, gelişmiş yapay zekâ ajanlarının siber güvenlik, ekonomik istikrar ve otonom davranış riskleri etrafında yoğunlaşıyor. ABD yönetimi ise Çin'le rekabet gerekçesiyle geniş çaplı bir yavaşlamaya mesafeli duruyor.",
-      "why": "Bu tartışma yapay zekâ yarışının yatırımcılar tarafından da artık yalnızca büyüme fırsatı olarak değil, düzenleme ve güvenlik riski olarak fiyatlandığını gösteriyor. Bağımsız değerlendirme ve ortak güvenlik standartları yaygınlaşırsa sektörün geliştirme modeli değişebilir.",
-      "impact": "İleri model takvimleri uzayabilir, güvenlik testleri ve denetim maliyetleri artabilir. Buna karşılık ikinci kademe çip ve altyapı şirketleri için rekabet alanı genişleyebilir; kurumsal kullanıcılar açısından daha ölçülebilir ve denetlenebilir sistemler ortaya çıkabilir.",
+      "title": "Microsoft, yapay zekâyı insan kontrolünde tutmak için yeni davranış kodu hazırladı",
+      "summary": "Microsoft, gelişmiş yapay zekâ sistemlerinin düzeltmeleri kabul etmesini, kapatılmaya direnmemesini ve insan denetimine tabi kalmasını temel alan taslak bir davranış kodu yayımladı.",
+      "background": "Microsoft AI CEO'su Mustafa Suleyman tarafından açıklanan taslak yaklaşık beş-altı aylık çalışmanın ürünü. Metin, modellerin insan talimatlarına ve düzeltmelerine açık kalmasını, anlaşılır iletişim kurmasını ve kendi statüsü konusunda bilinç ya da hukuki kişilik iddiasında bulunmamasını öngörüyor. Taslak altı hafta boyunca kamuoyu görüşüne açık.",
+      "why": "Önde gelen laboratuvarların daha güçlü ve otonom ajanlar geliştirdiği bir dönemde, yapay zekânın kapatılabilirliği ve insan otoritesine bağlılığı teknik bir ayrıntı olmaktan çıkıp sektör standardı tartışmasına dönüşüyor.",
+      "impact": "Benzer kurallar diğer büyük laboratuvarlara yayılırsa model eğitimi, güvenlik testleri ve kurumsal yapay zekâ satın alma kriterleri değişebilir. Gelişmiş ajanlarda denetlenebilirlik ve kapatılabilirlik daha açık biçimde ölçülen özellikler haline gelebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/"
+      "url": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/"
     },
     {
       "category": "turkiye",
-      "title": "2026-2027 eğitim yılı başladı; İstanbul'da ilk gün özel saat uygulaması var",
-      "summary": "Türkiye'de yeni eğitim öğretim yılı bugün başladı. İstanbul'daki resmi ve özel ilkokul, ortaokul ve liselerde trafik yoğunluğunu azaltmak amacıyla ilk gün dersler 10.00-15.00 saatleri arasında yapılacak.",
-      "background": "İstanbul'da yaklaşık 2,8 milyon öğrenci, 161 binden fazla öğretmen ve yaklaşık 19 bin okul servisi aynı gün yeniden trafiğe çıkıyor. İl Milli Eğitim Müdürlüğü, öğrencilerin ve öğretmenlerin okullara daha güvenli ulaşabilmesi için başlangıç saatlerini geçici olarak değiştirdi; Valilik de okul çevrelerinde ek güvenlik tedbirleri açıkladı.",
-      "why": "Eğitim yılının açılışı milyonlarca aileyi doğrudan etkiliyor ve özellikle büyükşehirlerde ulaşım, güvenlik ve kamu hizmetleri üzerinde ciddi bir günlük yük oluşturuyor. İstanbul'daki uygulama, şehir yönetiminin bu ani yoğunluğu dağıtmak için kullandığı önemli bir operasyonel önlem.",
-      "impact": "İlk gün trafik baskısının azalması hedefleniyor. Uygulamanın etkili olması, sonraki yıllarda okul açılışı gibi yüksek yoğunluklu günlerde benzer saat düzenlemelerinin daha sistematik kullanılmasına örnek olabilir.",
-      "source": "Anadolu Ajansı",
-      "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-okullarda-14-eylulde-dersler-1000-1500-saatleri-arasinda-yapilacak/4054778"
+      "title": "Türkiye'de dış ticaret birim değerleri yükselirken perakende satış hacmi güçlü kaldı",
+      "summary": "TÜİK'in son verilerine göre temmuzda ihracat birim değer endeksi yıllık yüzde 8,2 arttı. 11 Eylül'de açıklanan verilerde ise toplam ticaret satış hacmi yıllık yüzde 0,6 gerilerken perakende satış hacmi yüzde 10,4 yükseldi.",
+      "background": "Türkiye ekonomisi ikinci yarıya enflasyonla mücadele ve sıkı finansal koşullar altında girdi. Dış ticaret fiyatlarındaki yükseliş ihracat gelirlerinin nominal tarafını desteklerken, perakende hacmindeki çift haneli artış iç talebin tüketici tarafında dirençli kaldığına işaret ediyor.",
+      "why": "İç talebin seyri Merkez Bankası'nın dezenflasyon süreci açısından kritik. İhracat birim değerlerinin yükselmesi dış gelirler için olumlu olabilir; ancak güçlü tüketim talebi fiyat baskılarının daha yavaş çözülmesine neden olabilir.",
+      "impact": "Önümüzdeki aylarda tüketim hacmi yüksek kalırsa para politikasında hızlı gevşeme alanı daralabilir. İhracat fiyatlarının olumlu seyri ise şirket gelirleri ve dış ticaret dengesi üzerinde kısmi destek sağlayabilir.",
+      "source": "Türkiye İstatistik Kurumu (TÜİK)",
+      "url": "https://www.tuik.gov.tr/"
     },
     {
       "category": "world",
-      "title": "Suudi petrol hattına saldırı ve Hürmüz gerilimi petrolü yeniden sıçrattı",
-      "summary": "Husilerin Suudi Arabistan'ın kritik Doğu-Batı petrol boru hattına yönelik saldırısı ve Hürmüz Boğazı'ndaki yeni gemi saldırıları, petrol fiyatlarını yüzde 3'ün üzerinde yükseltti. Brent petrol 107 dolar civarına çıktı.",
-      "background": "Doğu-Batı hattı, Hürmüz Boğazı'nı baypas eden en önemli alternatif ihracat güzergâhlarından biri. Hattın geçici olarak devre dışı kalması küresel arzın yaklaşık yüzde 4'üne kadar olan kısmını riske atabilir. Aynı dönemde Hürmüz'deki ticari gemi trafiği de normal seviyelerin altında seyrediyor.",
-      "why": "Hem ana deniz geçişinin hem de alternatif kara hattının aynı anda risk altında olması, küresel enerji sistemindeki yedek kapasiteyi daraltıyor. Bu nedenle bölgedeki yeni bir saldırı yalnızca yerel güvenlik olayı değil, doğrudan küresel fiyat şoku yaratabilecek bir gelişme.",
-      "impact": "Petrol ve rafine yakıt fiyatları yüksek kalırsa enflasyon yeniden hızlanabilir, enerji ithalatçısı ülkelerin cari açıkları büyüyebilir ve merkez bankalarının faiz indirimleri gecikebilir. Türkiye gibi enerji ithalatına bağımlı ekonomiler bu baskıyı daha hızlı hissedebilir.",
+      "title": "Husiler Kızıldeniz'de stratejik adaları ele geçirirken Suudi petrol hattı devre dışı kaldı",
+      "summary": "Yemen'deki Husiler Kızıldeniz'deki stratejik Haniş adalarında kontrol sağladı ve Suudi Arabistan'a yönelik füze ve İHA saldırılarını artırdı. Suudi Doğu-Batı petrol boru hattındaki hasar da küresel arz endişelerini büyüttü.",
+      "background": "Doğu-Batı hattı Hürmüz Boğazı'nı baypas ederek günde yaklaşık 4 milyon varile kadar petrolü Kızıldeniz kıyısındaki Yanbu'ya taşıyabiliyor. Hürmüz trafiğinin zaten ciddi biçimde kısıtlandığı bir dönemde alternatif hattın da devre dışı kalması, Bab el-Mendeb ve Kızıldeniz güzergâhlarının önemini artırdı.",
+      "why": "Dünyanın başlıca enerji geçiş noktalarından ikisinin aynı kriz içinde baskı altına girmesi, bölgesel çatışmayı doğrudan küresel enerji güvenliği sorununa dönüştürüyor.",
+      "impact": "Brent petrol 100 doların üzerinde kalabilir ve uzun süreli kesinti yakıt, taşımacılık ve üretim maliyetlerini artırabilir. Enerji ithalatçısı ekonomilerde enflasyon ve cari denge baskısı güçlenebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/"
+      "url": "https://www.reuters.com/world/middle-east/houthis-strike-saudi-targets-anew-talks-over-strait-hormuz-stall-2026-09-15/"
     },
     {
       "category": "world",
-      "title": "Goldman Sachs ve JPMorgan, Fed'den eylülde faiz artışı beklemeye başladı",
-      "summary": "ABD'de ağustos enflasyonunun beklenenden güçlü gelmesi ve petrol fiyatlarının 100 doların üzerinde kalması sonrası Goldman Sachs ile JPMorgan, Federal Reserve'in eylül toplantısında 25 baz puan faiz artırmasını beklediklerini açıkladı.",
-      "background": "ABD'de tüketici ve üretici fiyatlarındaki son veriler dezenflasyon sürecinin hız kaybettiğine işaret ediyor. Orta Doğu kaynaklı enerji şoku da yakıt ve taşımacılık maliyetlerini yukarı çekiyor. Piyasalarda eylül toplantısında faiz artışı olasılığı belirgin biçimde yükseldi.",
-      "why": "Fed'in yeniden faiz artırması, küresel finans koşullarını sıkılaştırarak dolar, tahvil faizleri, hisse senetleri ve gelişmekte olan ülke para birimleri üzerinde doğrudan etki yaratabilir. Bu aynı zamanda enerji krizinin para politikasına ne kadar hızlı yansıdığını gösteriyor.",
-      "impact": "ABD tahvil faizleri ve dolar güçlenebilir; küresel borçlanma maliyetleri artabilir. Gelişmekte olan ekonomilerde sermaye akımları ve kur baskısı yeniden belirginleşebilir, büyüme görünümü zayıflayabilir.",
+      "title": "Petrol şoku Fed öncesi dolar ve tahvil faizlerini yukarı taşıdı",
+      "summary": "Petrolün yaklaşık 107 dolara yükselmesiyle ABD 10 yıllık tahvil faizi yüzde 5'in üzerine çıktı, dolar iki haftanın zirvesine yaklaştı ve piyasalar Fed'in faiz artırma olasılığını çok yüksek fiyatlamaya başladı.",
+      "background": "Enerji fiyatlarındaki yeni sıçrama, ABD'de enflasyonun yeniden hızlanabileceği endişesini artırıyor. Reuters'ın piyasa verilerine göre yatırımcılar 16 Eylül'deki Fed kararında faiz artışına güçlü olasılık veriyor; bu, üç yılı aşkın sürenin ardından ilk artış olabilir.",
+      "why": "ABD faizleri küresel finans sisteminin referans maliyetlerinden biri. Enerji kaynaklı bir enflasyon şokunun Fed'i yeniden sıkılaştırmaya itmesi, Orta Doğu'daki jeopolitik krizin doğrudan küresel para politikasına taşındığı anlamına geliyor.",
+      "impact": "Dolar güçlenebilir, gelişmekte olan ülkelerin borçlanma maliyetleri artabilir ve hisse senetleri üzerinde baskı oluşabilir. Türkiye dahil dolar finansmanına duyarlı ekonomilerde kur ve faiz koşulları daha sıkı hale gelebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/goldman-sachs-now-expects-fed-hike-rates-september-2026-09-14/"
+      "url": "https://www.reuters.com/world/africa/dollar-near-two-week-high-oil-surge-lifts-yields-fed-hike-bets-2026-09-15/"
     },
     {
       "category": "science",
-      "title": "ESA, bitkilerin fotosentezini uzaydan ölçecek FLEX görevini fırlatmaya hazırlanıyor",
-      "summary": "Avrupa Uzay Ajansı, FLEX ve Copernicus Sentinel-3C uydularını Vega-C roketiyle Fransız Guyanası'ndan fırlatmaya hazırlanıyor. FLEX, bitkilerin yaydığı zayıf floresan ışığını ölçerek fotosentez faaliyetini küresel ölçekte doğrudan izleyecek.",
-      "background": "FLEX görevi yaklaşık 814 kilometre irtifada çalışacak ve bitki sağlığı, karbon döngüsü ve su döngüsü hakkında yeni veriler sağlayacak. Sentinel-3C ise okyanuslar, kara yüzeyi ve atmosfer için Copernicus gözlem kapasitesini güçlendirecek. Fırlatma yerel saatle 14 Eylül gecesi planlanıyor.",
-      "why": "Bugüne kadar bitki üretkenliği çoğunlukla dolaylı göstergelerle izleniyordu. FLEX'in fotosentezin yan ürünü olan floresansı doğrudan ölçmesi, kuraklık ve sıcaklık stresinin bitkiler üzerindeki etkisini daha erken tespit etmeyi mümkün kılabilir.",
-      "impact": "Görev başarılı olursa tarım verimliliği, kuraklık takibi, orman sağlığı ve iklim modelleri için daha hassas veri üretilebilir. Bu veriler karbon bütçelerinin ve iklim değişikliğinin ekosistemler üzerindeki etkisinin daha doğru hesaplanmasına yardımcı olacak.",
+      "title": "ESA'nın FLEX ve Sentinel-3C uyduları bugün Vega-C ile fırlatılıyor",
+      "summary": "Avrupa Uzay Ajansı'nın FLEX ve Copernicus Sentinel-3C Dünya gözlem uydularının 15 Eylül'de Fransız Guyanası'ndan aynı Vega-C roketiyle fırlatılması planlandı. FLEX bitkilerin fotosentezini, Sentinel-3C ise okyanus, kara, buz ve atmosferi izleyecek.",
+      "background": "FLEX yaklaşık 814 kilometre irtifada bitkilerin fotosentez sırasında yaydığı son derece zayıf floresan sinyalini ölçecek. Sentinel-3C, Copernicus Sentinel-3 serisinin üçüncü uydusu olarak yakın gerçek zamanlı okyanus ve hava tahmini dahil uzun süreli Dünya gözlem kapasitesini güçlendirecek.",
+      "why": "Fotosentezin küresel ölçekte doğrudan izlenmesi, bitki sağlığı ve karbon döngüsünün anlaşılmasında önemli bir veri boşluğunu kapatabilir. Sentinel-3C de iklim kayıtlarının sürekliliğini artırıyor.",
+      "impact": "Tarımda kuraklık ve bitki stresi daha erken saptanabilir; karbon döngüsü ve iklim modelleri daha hassas hale gelebilir. Okyanus ve hava tahminleri için kullanılan Copernicus verilerinin sürekliliği de güçlenecek.",
       "source": "European Space Agency (ESA)",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX"
+      "url": "https://www.esa.int/Newsroom/Press_Releases/FLEX_and_Sentinel-3C_launch_re-watch_event_on_15_September_at_ESA_s_Space_Operations_Centre"
     }
   ]
 }
