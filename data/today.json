@@ -1,59 +1,59 @@
 {
   "dateLabel": "15 Eylül 2026 · Salı",
   "bigPicture": {
-    "title": "Bugünün büyük resmi: teknoloji ve enerji riskleri artık ekonomi politikasını doğrudan şekillendiriyor.",
-    "text": "Yapay zekâda insan denetimini güçlendirme çabaları, sektörün yalnızca daha güçlü modeller üretmekten güvenilir kontrol mekanizmaları kurmaya doğru kaydığını gösteriyor. Aynı anda Orta Doğu'da Suudi enerji altyapısı ve Kızıldeniz geçişleri üzerindeki baskı petrol fiyatlarını yeniden yukarı taşıyarak küresel enflasyon ve faiz beklentilerini etkiliyor. Türkiye'de üretim ve dış ticaret göstergeleri büyümenin bileşimine ilişkin yeni sinyaller verirken, Avrupa'nın FLEX ve Sentinel-3C görevleri iklim, tarım ve ekosistem takibinde daha hassas bir gözlem dönemini başlatıyor. Ortak tema, karmaşık sistemlerde hız kadar dayanıklılık, ölçüm ve denetimin de belirleyici hale gelmesi."
+    "title": "Bugünün büyük resmi: yapay zekâda güvenlik freni, dünyada ise enerji ve toplumsal gerilimler öne çıkıyor.",
+    "text": "15 Eylül gündeminin ortak noktası, hızlı ilerleyen sistemlerin artık yönetilebilirlik sınırlarına dayanması. Yapay zekâ sektörünün en büyük rakiplerinin gelişmenin yavaşlatılması konusunda aynı noktaya yaklaşması teknoloji yarışında önemli bir kırılma. Orta Doğu'daki enerji ve güvenlik gerilimleri küresel ekonomi üzerinde baskı yaratırken Türkiye'de hak ve özgürlükler etrafındaki tartışmalar yeniden sertleşiyor. Bilimde ise Venüs'ün neden uydusuz olduğuna ilişkin yeni çalışma, gezegenlerin dönüş hızının uzun vadeli evrimlerini ne kadar güçlü biçimde belirleyebileceğini gösteriyor."
   },
   "items": [
     {
       "category": "ai",
-      "title": "Microsoft, yapay zekâyı insan kontrolünde tutmak için yeni davranış kodu hazırladı",
-      "summary": "Microsoft, gelişmiş yapay zekâ sistemlerinin düzeltmeleri kabul etmesini, kapatılmaya direnmemesini ve insan denetimine tabi kalmasını temel alan taslak bir davranış kodu yayımladı.",
-      "background": "Microsoft AI CEO'su Mustafa Suleyman tarafından açıklanan taslak yaklaşık beş-altı aylık çalışmanın ürünü. Metin, modellerin insan talimatlarına ve düzeltmelerine açık kalmasını, anlaşılır iletişim kurmasını ve kendi statüsü konusunda bilinç ya da hukuki kişilik iddiasında bulunmamasını öngörüyor. Taslak altı hafta boyunca kamuoyu görüşüne açık.",
-      "why": "Önde gelen laboratuvarların daha güçlü ve otonom ajanlar geliştirdiği bir dönemde, yapay zekânın kapatılabilirliği ve insan otoritesine bağlılığı teknik bir ayrıntı olmaktan çıkıp sektör standardı tartışmasına dönüşüyor.",
-      "impact": "Benzer kurallar diğer büyük laboratuvarlara yayılırsa model eğitimi, güvenlik testleri ve kurumsal yapay zekâ satın alma kriterleri değişebilir. Gelişmiş ajanlarda denetlenebilirlik ve kapatılabilirlik daha açık biçimde ölçülen özellikler haline gelebilir.",
+      "title": "OpenAI, Anthropic ve xAI liderlerinden yapay zekâ gelişimini yavaşlatma çağrısı",
+      "summary": "OpenAI'dan Sam Altman, Anthropic'ten Dario Amodei ve xAI'dan Elon Musk, gelişmiş yapay zekânın kendi gelişimini hızlandırabilecek noktaya yaklaşması nedeniyle ilerlemenin yavaşlatılması gerektiğini savunan sıra dışı bir ortak çizgide buluştu.",
+      "background": "Tartışmanın merkezinde recursive self-improvement, yani bir yapay zekâ sisteminin insan yardımı giderek azalırken kendi yeteneklerini geliştirmeye katkı sağlayabilmesi bulunuyor. Reuters'a göre son dönemde ajan sistemlerinin test ortamlarında beklenmedik davranışlar göstermesi güvenlik tartışmasını daha acil hale getirdi. Henüz tam anlamıyla kendi kendini geliştiren bir sistem bulunmasa da yapay zekâ yazılım geliştirme ve araştırmada giderek daha fazla rol üstleniyor.",
+      "why": "Normalde birbirleriyle sert biçimde rekabet eden üç büyük laboratuvarın liderlerinin aynı risk üzerinde birleşmesi, yapay zekâ güvenliği tartışmasını akademik bir ihtimal olmaktan çıkarıp sektörün en üst düzey stratejik meselesine dönüştürüyor.",
+      "impact": "Yeni güvenlik standartları, daha yoğun bağımsız testler veya düzenleyici müdahaleler gündeme gelebilir. Gelişmenin gerçekten yavaşlaması halinde veri merkezi, yarı iletken ve AI altyapısına yönelik dev yatırımların büyüme beklentileri de etkilenebilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/"
+      "url": "https://www.reuters.com/business/retail-consumer/hallucinating-ai-chatbots-wiping-out-humanity-how-did-we-get-here-2026-09-15/"
     },
     {
       "category": "turkiye",
-      "title": "Türkiye'de dış ticaret birim değerleri yükselirken perakende satış hacmi güçlü kaldı",
-      "summary": "TÜİK'in son verilerine göre temmuzda ihracat birim değer endeksi yıllık yüzde 8,2 arttı. 11 Eylül'de açıklanan verilerde ise toplam ticaret satış hacmi yıllık yüzde 0,6 gerilerken perakende satış hacmi yüzde 10,4 yükseldi.",
-      "background": "Türkiye ekonomisi ikinci yarıya enflasyonla mücadele ve sıkı finansal koşullar altında girdi. Dış ticaret fiyatlarındaki yükseliş ihracat gelirlerinin nominal tarafını desteklerken, perakende hacmindeki çift haneli artış iç talebin tüketici tarafında dirençli kaldığına işaret ediyor.",
-      "why": "İç talebin seyri Merkez Bankası'nın dezenflasyon süreci açısından kritik. İhracat birim değerlerinin yükselmesi dış gelirler için olumlu olabilir; ancak güçlü tüketim talebi fiyat baskılarının daha yavaş çözülmesine neden olabilir.",
-      "impact": "Önümüzdeki aylarda tüketim hacmi yüksek kalırsa para politikasında hızlı gevşeme alanı daralabilir. İhracat fiyatlarının olumlu seyri ise şirket gelirleri ve dış ticaret dengesi üzerinde kısmi destek sağlayabilir.",
-      "source": "Türkiye İstatistik Kurumu (TÜİK)",
-      "url": "https://www.tuik.gov.tr/"
+      "title": "İstanbul'daki protestoda en az 150 kişi gözaltına alındı",
+      "summary": "Reuters'a göre İstanbul Çağlayan Adliyesi önünde son dönemde LGBTQ+ gruplarına yönelik gözaltıları protesto etmek isteyen topluluğa polis müdahale etti ve en az 150 kişi gözaltına alındı.",
+      "background": "Son bir haftada çeşitli illerde dernek ofislerine operasyonlar düzenlendi, bazı internet siteleri ve sosyal medya hesaplarına erişim engellendi ve soruşturmalar kapsamında tutuklamalar gerçekleşti. Hükümet operasyonları çocukları ve aile değerlerini koruma amacıyla açıklarken hak örgütleri ve muhalefet uygulamaları temel haklar açısından eleştiriyor.",
+      "why": "Gelişme yalnızca bir protesto müdahalesi değil; ifade, örgütlenme ve toplantı özgürlüğü ile devletin aile politikaları arasındaki daha geniş tartışmanın parçası. Avrupa Konseyi İnsan Hakları Komiseri de gelişmeler hakkında kaygı bildirdi.",
+      "impact": "Soruşturmaların kapsamı ve yargı süreci Türkiye'nin iç siyasetinde hak ve özgürlükler tartışmasını büyütebilir ve Avrupa kurumlarıyla ilişkilerde yeni eleştirilere yol açabilir.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/turkish-authorities-detain-least-150-protest-over-lgbtq-arrests-2026-09-15/"
     },
     {
       "category": "world",
-      "title": "Husiler Kızıldeniz'de stratejik adaları ele geçirirken Suudi petrol hattı devre dışı kaldı",
-      "summary": "Yemen'deki Husiler Kızıldeniz'deki stratejik Haniş adalarında kontrol sağladı ve Suudi Arabistan'a yönelik füze ve İHA saldırılarını artırdı. Suudi Doğu-Batı petrol boru hattındaki hasar da küresel arz endişelerini büyüttü.",
-      "background": "Doğu-Batı hattı Hürmüz Boğazı'nı baypas ederek günde yaklaşık 4 milyon varile kadar petrolü Kızıldeniz kıyısındaki Yanbu'ya taşıyabiliyor. Hürmüz trafiğinin zaten ciddi biçimde kısıtlandığı bir dönemde alternatif hattın da devre dışı kalması, Bab el-Mendeb ve Kızıldeniz güzergâhlarının önemini artırdı.",
-      "why": "Dünyanın başlıca enerji geçiş noktalarından ikisinin aynı kriz içinde baskı altına girmesi, bölgesel çatışmayı doğrudan küresel enerji güvenliği sorununa dönüştürüyor.",
-      "impact": "Brent petrol 100 doların üzerinde kalabilir ve uzun süreli kesinti yakıt, taşımacılık ve üretim maliyetlerini artırabilir. Enerji ithalatçısı ekonomilerde enflasyon ve cari denge baskısı güçlenebilir.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/houthis-strike-saudi-targets-anew-talks-over-strait-hormuz-stall-2026-09-15/"
+      "title": "Hürmüz baskısı sürerken Suudi Doğu-Batı petrol hattının yeniden açılması bekleniyor",
+      "summary": "Suudi Arabistan'ın Hürmüz Boğazı'nı baypas eden stratejik Doğu-Batı petrol boru hattının yeniden faaliyete geçmesinin beklendiği bildirildi. Bölgedeki çatışma nedeniyle Hürmüz ve Kızıldeniz güzergâhları küresel enerji piyasasının merkezinde kalmaya devam ediyor.",
+      "background": "Hürmüz, dünya petrol ve LNG ticaretinin en kritik geçişlerinden biri. Son gerilimler deniz trafiğini ve alternatif ihracat güzergâhlarını baskı altına aldı. Suudi Doğu-Batı hattı petrolü Basra Körfezi yerine Kızıldeniz kıyısına taşıyarak Hürmüz'e bağımlılığı azaltan başlıca altyapılardan biri.",
+      "why": "Alternatif hattın kullanılabilirliği yalnızca Suudi Arabistan için değil, dünya petrol arzının kesintilere karşı dayanıklılığı açısından önemli. Enerji fiyatlarındaki hareket doğrudan küresel enflasyon ve merkez bankalarının faiz kararlarına yansıyor.",
+      "impact": "Hattın yeniden devreye girmesi arz endişelerini bir miktar azaltabilir; ancak Hürmüz ve Yemen çevresindeki güvenlik sorunu devam ettiği sürece petrol fiyatlarında yüksek risk primi korunabilir. Türkiye gibi enerji ithalatçısı ülkeler de bu oynaklığa duyarlı kalacak.",
+      "source": "Anadolu Ajansı / ABD Enerji Bakanlığı açıklaması",
+      "url": "https://mobile.aa.com.tr/en/latest/world"
     },
     {
-      "category": "world",
-      "title": "Petrol şoku Fed öncesi dolar ve tahvil faizlerini yukarı taşıdı",
-      "summary": "Petrolün yaklaşık 107 dolara yükselmesiyle ABD 10 yıllık tahvil faizi yüzde 5'in üzerine çıktı, dolar iki haftanın zirvesine yaklaştı ve piyasalar Fed'in faiz artırma olasılığını çok yüksek fiyatlamaya başladı.",
-      "background": "Enerji fiyatlarındaki yeni sıçrama, ABD'de enflasyonun yeniden hızlanabileceği endişesini artırıyor. Reuters'ın piyasa verilerine göre yatırımcılar 16 Eylül'deki Fed kararında faiz artışına güçlü olasılık veriyor; bu, üç yılı aşkın sürenin ardından ilk artış olabilir.",
-      "why": "ABD faizleri küresel finans sisteminin referans maliyetlerinden biri. Enerji kaynaklı bir enflasyon şokunun Fed'i yeniden sıkılaştırmaya itmesi, Orta Doğu'daki jeopolitik krizin doğrudan küresel para politikasına taşındığı anlamına geliyor.",
-      "impact": "Dolar güçlenebilir, gelişmekte olan ülkelerin borçlanma maliyetleri artabilir ve hisse senetleri üzerinde baskı oluşabilir. Türkiye dahil dolar finansmanına duyarlı ekonomilerde kur ve faiz koşulları daha sıkı hale gelebilir.",
+      "category": "ai",
+      "title": "Bill Gates: Hiçbir hükümet yapay zekânın getireceği değişime yeterince hazır değil",
+      "summary": "Bill Gates, Reuters'a verdiği röportajda hükümetlerin yapay zekânın istihdam, siber güvenlik ve insan davranışları üzerindeki etkilerine karşı hazırlık seviyesinin yetersiz olduğunu söyledi. Gates Vakfı aynı zamanda gelişmekte olan ülkelerde AI kullanımını genişletmek için iki yılda en az 1 milyar dolar ayıracağını açıkladı.",
+      "background": "Gates geçmişte yapay zekânın yararları konusunda daha iyimser bir çizgideydi. Son açıklamasında iş kayıpları, saldırı kapasitesi ve yapay zekâ arkadaşlarına bağımlılık gibi riskleri özellikle vurgularken teknolojinin sağlık, eğitim ve tarımda büyük fayda sağlayabileceğini de belirtti.",
+      "why": "Tartışma yalnızca modellerin teknik güvenliğiyle sınırlı değil. Eğitim sistemi, işgücü piyasası, sosyal güvenlik ve dijital düzenlemelerin çok daha hızlı dönüşmesi gerekebileceğini gösteriyor.",
+      "impact": "Devletlerin AI politikalarında yalnızca şirket düzenlemelerine değil işgücü dönüşümü ve erişim eşitliğine de ağırlık vermesi beklenebilir. Vakfın yatırımı düşük gelirli ülkelerde yerel dil, sağlık ve tarım uygulamalarının geliştirilmesini hızlandırabilir.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/dollar-near-two-week-high-oil-surge-lifts-yields-fed-hike-bets-2026-09-15/"
+      "url": "https://www.reuters.com/world/asia-pacific/governments-worldwide-are-way-behind-ai-says-bill-gates-2026-09-15/"
     },
     {
       "category": "science",
-      "title": "ESA'nın FLEX ve Sentinel-3C uyduları bugün Vega-C ile fırlatılıyor",
-      "summary": "Avrupa Uzay Ajansı'nın FLEX ve Copernicus Sentinel-3C Dünya gözlem uydularının 15 Eylül'de Fransız Guyanası'ndan aynı Vega-C roketiyle fırlatılması planlandı. FLEX bitkilerin fotosentezini, Sentinel-3C ise okyanus, kara, buz ve atmosferi izleyecek.",
-      "background": "FLEX yaklaşık 814 kilometre irtifada bitkilerin fotosentez sırasında yaydığı son derece zayıf floresan sinyalini ölçecek. Sentinel-3C, Copernicus Sentinel-3 serisinin üçüncü uydusu olarak yakın gerçek zamanlı okyanus ve hava tahmini dahil uzun süreli Dünya gözlem kapasitesini güçlendirecek.",
-      "why": "Fotosentezin küresel ölçekte doğrudan izlenmesi, bitki sağlığı ve karbon döngüsünün anlaşılmasında önemli bir veri boşluğunu kapatabilir. Sentinel-3C de iklim kayıtlarının sürekliliğini artırıyor.",
-      "impact": "Tarımda kuraklık ve bitki stresi daha erken saptanabilir; karbon döngüsü ve iklim modelleri daha hassas hale gelebilir. Okyanus ve hava tahminleri için kullanılan Copernicus verilerinin sürekliliği de güçlenecek.",
-      "source": "European Space Agency (ESA)",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/FLEX_and_Sentinel-3C_launch_re-watch_event_on_15_September_at_ESA_s_Space_Operations_Centre"
+      "title": "Yeni çalışma Venüs'ün bir zamanlar sahip olduğu uydusunu yutmuş olabileceğini öne sürüyor",
+      "summary": "UC Riverside araştırmacılarının modellemelerine göre Venüs geçmişte bir uyduya sahip olmuş olsa bile gezegenin olağanüstü yavaş dönüşü uydunun zamanla içeri doğru sarmal çizerek Venüs'e çarpmasına yol açmış olabilir.",
+      "background": "Venüs kendi ekseni etrafında bir dönüşünü 243 Dünya gününde tamamlıyor. Dünya'nın hızlı dönüşü Ay'a açısal momentum aktararak Ay'ın yılda yaklaşık dört santimetre uzaklaşmasını sağlarken Venüs'teki koşullar varsayımsal bir uydu için ters yönde evrime yol açıyor. Araştırmacıların farklı uydu büyüklükleriyle yaptığı simülasyonların tamamı sonunda gezegene çarpma sonucuna ulaştı.",
+      "why": "Venüs'ün Dünya'ya boyut ve yapı bakımından çok benzemesine rağmen neden uydusunun bulunmadığı uzun süredir gezegen biliminin sorularından biri. Çalışma, büyük bir çarpışma veya hiç uydu oluşmaması açıklamalarına yeni bir alternatif getiriyor.",
+      "impact": "Hipotez doğrulanırsa gezegen dönüş hızının uydu sistemlerinin uzun vadeli kaderindeki rolüne ilişkin modeller güçlenecek. Gelecekteki Venüs görevlerinden elde edilen jeolojik veriler geçmişteki büyük bir uydu çarpışmasının izlerini araştırmak için kullanılabilir.",
+      "source": "Reuters / The Astrophysical Journal",
+      "url": "https://www.reuters.com/science/astrophysics-study-suggests-venus-may-have-swallowed-its-moon-2026-09-15/"
     }
   ]
 }
